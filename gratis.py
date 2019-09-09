@@ -132,8 +132,8 @@ def main():
         '',
         '[CC]'
         '[R1]New Script OPOK { Khusus TELKOMSEL }', '[CC]'
-        '[R2]Creator: Chandra Aditya', 
-        '[R1]TKJ-1 {SmK Negri Tanjung Pura}', '[CC]'
+        '[R2]Creator: N SY4H', 
+        '[R1]TKR-3 {SmK YPT}', '[CC]'
         '[P1]INTERNET GRATIS ', '[CC]'
         '[G1]TELKOMSEL 2019',
         '',
@@ -144,4 +144,3 @@ if __name__ == '__main__':
 	main()
 	
 # Jangan Di Edit Ntar Eroor script nya _-
-# +6281262163214 WhatsApp
